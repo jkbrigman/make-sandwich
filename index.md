@@ -13,6 +13,4 @@
 11. pop stack cached cheese
 12. pop stack cached meats
 13. pop stack cached bread
-
-[Link](https://images.app.goo.gl/QxATdffwBkPjHHFE7) 
 ```
