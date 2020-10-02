@@ -14,8 +14,5 @@
 12. pop stack cached meats
 13. pop stack cached bread
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](https://images.app.goo.gl/QxATdffwBkPjHHFE7) 
 ```
