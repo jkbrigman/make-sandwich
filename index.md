@@ -1,9 +1,5 @@
 ## Making a Sandwich
 
-# Header 1
-## Header 2
-### Header 3
-
 1. Get money
 2. Go directly to store; go inside
 3. Find in store; bread cheese sliced meats lettuce mustard
